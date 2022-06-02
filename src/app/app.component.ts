@@ -1,3 +1,4 @@
+import { NumberFormatStyle } from '@angular/common';
 import { Component } from '@angular/core';
 
 @Component({
@@ -6,5 +7,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Primer-proyecto-angular';
+  title = 'HTML-CSS-ANGULAR-TYPESCRIPT';
+  name = 'Octavio';
+
+
 }
